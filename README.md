@@ -1,3 +1,5 @@
+# ! THIS REPOSITORY IS OUTDATED, please use [SDVX7 Proxy](https://github.com/Shewiiii/SDVX7-Proxy)
+
 # SDVX ∇ VolForce Tracker
 
 > "Rasis Tracker"
